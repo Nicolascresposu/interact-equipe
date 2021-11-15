@@ -9,5 +9,8 @@
   <link rel="stylesheet" href="page.css">
 </head>
 <body>
-
+<?php
+$tvar = "Esta es una variable de prueba";
+echo $tvar;
+?>
 </body>
