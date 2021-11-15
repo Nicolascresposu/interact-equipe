@@ -11,6 +11,10 @@
 <body>
 <?php
 $tvar = "Esta es una variable de prueba";
+$array = array("almendra","papas","mayonesa");
 echo $tvar;
+
+echo $array[1].", ".$array[2];
+
 ?>
 </body>
