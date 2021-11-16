@@ -10,6 +10,7 @@
 </head>
 <body>
 <?php
+include "header.html";
 $tvar = "Esta es una variable de prueba";
 $array = array("almendra","papas","mayonesa");
 echo $tvar;
